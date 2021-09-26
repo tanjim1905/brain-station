@@ -6,9 +6,9 @@ This project was bootstrapped with [World Few Companies Resource](https://vigila
 
 ## Some Information
 
-- 1. Information of ous compaies employes in this site.
-- 2.The salary and facilities of our company employes.
-- 3.This project using react js.
+- Information of ous compaies employes in this site.
+- The salary and facilities of our company employes.
+- This project using react js.
 
 ## Available Scripts
 
