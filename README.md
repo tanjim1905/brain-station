@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# World Few Companies Resource
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is created with bootstrap (# World Few Companies Resource
+
+This project was bootstrapped with [World Few Companies Resource](https://vigilant-golick-5d41ae.netlify.app/).
+
+## Some Information
+
+1. Information of ous compaies employes in this site.
+   2.The salary and facilities of our company employes.
+   3.This project using react js.
 
 ## Available Scripts
 
